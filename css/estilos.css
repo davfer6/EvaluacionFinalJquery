@@ -1,0 +1,14 @@
+body{
+	background-color: #E6E6FA;
+}
+
+
+.nombre, .apellidos, .telefono, .email{
+	width: 7%;
+	float: left;
+}
+
+#nombre, #apellidos, #telefono, #email{
+	width: 150px;
+
+}
